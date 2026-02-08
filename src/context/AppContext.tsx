@@ -44,7 +44,7 @@ const initialGallery: GalleryItem[] = [
 const initialState: AppState = {
     contactInfo: {
         address: 'Gagarin Street 65, Fitness gym "Adrenalin"',
-        phone: '+375 (29) 146-56-62',
+        phone: '+375 (44) 123-45-67',
         email: 'anton.khadzko@gmail.com',
     },
     feedbacks: [],
